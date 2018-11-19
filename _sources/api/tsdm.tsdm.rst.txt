@@ -1,0 +1,7 @@
+tsdm.tsdm module
+================
+
+.. automodule:: tsdm.tsdm
+    :members:
+    :undoc-members:
+    :show-inheritance:
